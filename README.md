@@ -1,4 +1,3 @@
-# book-recommendation-project
 # 📚 Book Recommendation System
 
 ## 📌 Project Overview
